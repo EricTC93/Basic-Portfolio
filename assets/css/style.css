@@ -1,0 +1,50 @@
+body {
+	/*background-image: "assets/images/backgroundImg.png";*/
+	background-color: blue;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777777;
+}
+
+h1, h2, h3, h4 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+header, section, aside {
+	background-color: #ffffff
+}
+
+header {
+	border-bottom: #cccccc;
+}
+
+h1 {
+	background-color: #4aaaa5;
+	color: #ffffff;
+}
+
+section {
+
+}
+
+h2 {
+	color: #4aaaa5;
+	border-bottom: #dddddd;
+}
+
+aside {
+	
+}
+
+h3{
+	color: #4aaaa5;
+}
+
+footer {
+	background-color: #666666;
+	border-top: #4aaaa5;
+}
+
+h4 {
+	
+}
+
