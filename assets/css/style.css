@@ -3,7 +3,7 @@
 }*/
 
 body {
-	background-image: url(backgroundImg3.png);
+	background-image: url(../images/backgroundImg3.png);
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	color: #777777;
 	margin: auto;
