@@ -39,6 +39,8 @@ nav {
 
 nav>a {
 	padding: 7px;
+	text-decoration: none;
+	color: #777777;
 }
 
 div.content {
